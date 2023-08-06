@@ -1,0 +1,15 @@
+Sur voie de droite, vous pouvez continuer: \n A= Tout droit, B= Vers la droite, C= Au choix
+Sur autoroute, vous pouvez rouler: \n A= min 50km/h, B= max 130km/h, C= 90km/h
+Ce symbole signifie:  A=Route limité à 90km/k \n B= Passage pour piéton C=Debut d'autoroute
+Le quel de ces symabole est une interdiction: \n  A=1er B=2e C=3e
+Ce symbole signifie: A=On peut dépasser que par la droite \n B=Sens interdit C=Interdiction de depasser
+Apres combien de temps un verre d'alcool atteind \n son maximum dans le sang: A=30min B=1h C=4h
+Apres combien de g/L d'alcool dans le sang \n  on est puni : A=0.5 B=0.66 C=0.8
+Risque après 0.8g/L d'alcool dans le sang : \n A=Amende B=Retrait permanent C=Déchéance
+Quel est le plus polluant : \n A=Diesel B=LGP C= Essence
+Apres combien de tour par minute un essence devrait-on \n  monte la vitesse: A=2500 B=2000 c=3000
+A partir de combien de gramme de CO2/km c'est polluant : \n A=145 B=112 C=180
+Voiture verte peut entrer dans le rond point : \n A=Oui B=Non C=Peut-etre
+Qui a la priorité : A=Bleu B=Aucun C=Rouge
+Qui a la priorité : A=N'importe B=Rouge C=Bleu
+Qui a la priorité : A=Rouge B=N'importe C=Vert
